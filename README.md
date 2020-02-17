@@ -1,9 +1,9 @@
 # supermall
 
 ## sample
-![](./img/Snipaste_2020-02-17_10-09-15.png)
-![](./img/Snipaste_2020-02-17_10-09-41.png)
-![](./img/Snipaste_2020-02-17_10-10-02.png)
+![](./img/1.png)
+![](./img/2.png)
+![](./img/3.png)
 
 ## Project setup
 ```
