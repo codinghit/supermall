@@ -1,9 +1,9 @@
 # supermall
 
 ## sample
-![](./img/1.png)
-![](./img/2.png)
-![](./img/3.png)
+![首页](./img/1.png)
+![详情页](./img/2.png)
+![购物车](./img/3.png)
 
 ## Project setup
 ```
